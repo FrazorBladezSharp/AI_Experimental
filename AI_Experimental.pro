@@ -13,6 +13,7 @@ SOURCES += \
     ai_window.cpp
 
 HEADERS += \
+    ai_common.h \
     ai_window.h
 
 FORMS += \
